@@ -1,2 +1,6 @@
-# Univac1: 3D models for PUI Audio buzzer, pt# PUI-SMI-1027-TW-5V-R , 3D model for Mallory buzzer, pt# ASI301Q,
+# Univac1: 3D models 
+# PUI-SMI-1027-TW-5V-R buzzer
+# Mallory ASI301Q buzzer
+# AAVID 577202B00000G heatsink
+
            
