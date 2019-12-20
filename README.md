@@ -1,6 +1,5 @@
 # Univac1: 3D models 
-# PUI-SMI-1027-TW-5V-R buzzer
-# Mallory ASI301Q buzzer
-# AAVID 577202B00000G heatsink
-
-           
+# Buzzer_PUI_SMI_1027_TW_5V_R.stp
+# Mallory_ASI301Q_buzzer.stp
+# Heatsink_Aavid_577202B00000G_TO-220.stp
+# Heatsink_Aavid_507002B00000G_TO-220.stp
